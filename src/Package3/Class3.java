@@ -8,4 +8,7 @@ public class Class3 {
    void add(double a, int b) {
 	  
   }
+   void add(int a, int b) {
+	   
+   }
 }
