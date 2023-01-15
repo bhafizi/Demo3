@@ -8,7 +8,13 @@ public class Class3 {
    void add(double a, int b) {
 	  
   }
+<<<<<<< HEAD
  
 	   
    }
 
+=======
+}
+Done
+Update
+>>>>>>> branch 'master' of https://github.com/bhafizi/Demo3.git
