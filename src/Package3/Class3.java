@@ -6,15 +6,9 @@ public class Class3 {
 		System.out.println("Test");
 	}
    void add(double a, int b) {
-	  
+	  System.out.println("Test2");
   }
-<<<<<<< HEAD
  
 	   
    }
 
-=======
-}
-Done
-Update
->>>>>>> branch 'master' of https://github.com/bhafizi/Demo3.git
