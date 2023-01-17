@@ -7,8 +7,9 @@ public class Class3 {
 	}
    void add(double a, int b) {
 	  System.out.println("Test2");
+	  System.out.println("Test3");
   }
  
-	   
+      
    }
 
